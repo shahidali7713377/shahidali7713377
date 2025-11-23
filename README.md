@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @shahidali7713377
-- 👀 I’m interested in web design
-- 🌱 I’m currently learning advance JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Here is the updated version with your correction:
 
-<!---
-shahidali7713377/shahidali7713377 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+---
+
+👋 Hi, I’m @shahidali7713377
+
+💙 I’m a Flutter developer
+
+👀 Interested in mobile app development & UI/UX
+
+🌱 Currently learning LLM and Deep Learning integration in Flutter
+
+💞️ Open to collaborating on Flutter projects
+
+📫 Reach me at: your shahidullah7713377@gmail.com
